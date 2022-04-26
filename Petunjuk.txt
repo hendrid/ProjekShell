@@ -1,0 +1,6 @@
+### 	PETUNJUK MENGGUNAKAN APLIKASI	###
+1. Kata sandi untuk memasuki aplikasi yaitu "waras" atau "sehat" (dapat dipilih salah satu dan diketikkan tanpa "") nama pengguna tidak ditentukan(bebas)
+2. Terdapat 2 database. Database sementara yaitu pada menu DATABASE. Database dari file yaitu pada menu HISTORY
+3. Database sementara akan diekspor ke file apabila pasien telah membayar
+4. Untuk mengimpor file database, pindahkan file dataHistory ke "/home/user/(disini)"
+
